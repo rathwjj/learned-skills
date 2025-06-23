@@ -12,11 +12,8 @@ For downloadable certificates in PDF format, visit this shared folder:
 ### Microsoft Learn
 - [Transcript](https://learn.microsoft.com/en-us/users/rathwijitrkamjorn-2495/transcript/7639u1z0382m0z7)
 
-### Cisco Networking Academy
-- [Cisco NetAcad Credly Badges](https://www.credly.com/users/rathwjj)
-
-### IBM SkillsBuild
-- [Credly Badges (includes IBM)](https://www.credly.com/users/rathwjj)
+### Cisco Networking Academy / IBM SkillsBuild
+- [Cisco NetAcad / IBM Skillbuild Credly Badges](https://www.credly.com/users/rathwjj)
 
 ### Others
 - [DeepLearning.AI](https://learn.deeplearning.ai/)
