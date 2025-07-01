@@ -18,6 +18,9 @@ For downloadable certificates in PDF format, visit this shared folder:
 ### Others
 - [DeepLearning.AI](https://learn.deeplearning.ai/)
 - [Health Information Technology Foundations](https://oli.cmu.edu/courses/health-information-technology-foundations-open-free/)
+- HIPAA Compliance Complete Guide – Alison (2025)
+- FHIR on Azure (Microsoft Documentation + Postman Labs)
+
 
 ### LinkedIn Learning
 - Requires login to view
