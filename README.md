@@ -36,14 +36,15 @@ For downloadable certificates in PDF format, visit this shared folder:
   * Network Supports and Security
   * Packet Tracer
 
-### Others
+### Artificial Intelligence and Machine Learning
 - [DeepLearning.AI](https://learn.deeplearning.ai/)
   * Open Source Models with Hugging Face
   * Pair Programming with a Large Language Model
   * AI Python for Beginners
   * Building AI Browser Agents
   * Pretraining LLMs
-  
+
+### Healthcare Information and Machine Learning
 - [Health Information Technology Foundations](https://oli.cmu.edu/courses/health-information-technology-foundations-open-free/) Carnegie Melon Open Learning Initiative.
   * Healthcare delivery systems  
   * Health data standards & interoperability (HL7, FHIR)  
