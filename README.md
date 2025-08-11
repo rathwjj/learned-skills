@@ -45,7 +45,19 @@ For downloadable certificates in PDF format, visit this shared folder:
   * Pretraining LLMs
   
 - [Health Information Technology Foundations](https://oli.cmu.edu/courses/health-information-technology-foundations-open-free/) Carnegie Melon Open Learning Initiative.
+  * Healthcare delivery systems  
+  * Health data standards & interoperability (HL7, FHIR)  
+  * Electronic Health Records (EHR) fundamentals  
+  * HIPAA and healthcare data privacy/security 
+  
 - [Machine Learning for Healthcare](https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/) MIT Open CourseWare.
+  * Clinical data representation (EHR, imaging, time-series data)
+  * Risk modeling & predictive analytics in healthcare
+  * Interpretable machine learning for medical decision support
+  * Handling missing data in health datasets
+  * Model evaluation in clinical contexts (sensitivity, specificity, ROC, AUC)
+  * Ethical considerations in ML for healthcare
+ 
 - HIPAA Compliance Complete Guide – Alison (2025)
 - FHIR on Azure (Microsoft Documentation + Postman Labs)
 
