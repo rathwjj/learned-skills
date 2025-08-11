@@ -65,6 +65,10 @@ For downloadable certificates in PDF format, visit this shared folder:
 ### LinkedIn Learning
 - Requires login to view
 - [LinkedIn Certifications](https://www.linkedin.com/in/rathwjj/details/certifications/)
+  * API Documentation
+  * Introducing Postman
+  * Introduction to Web API
+  * Learn API documentation with JSON and XML
 
 ---
 
