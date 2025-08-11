@@ -1,4 +1,4 @@
-# 🎓 learned-skills
+# learned-skills
 
 Welcome to my **public certification record**. This repository lists all my learning platforms and certifications, categorized by issuer. Most links are official and publicly viewable.
 
