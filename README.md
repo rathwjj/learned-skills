@@ -26,6 +26,15 @@ For downloadable certificates in PDF format, visit this shared folder:
 
 ### Cisco Networking Academy / IBM SkillsBuild
 - [Cisco NetAcad / IBM SkillsBuild Credly Badges](https://www.credly.com/users/rathwjj)
+  * JavaScript
+  * Python
+  * Cloud Computing Fundamentals
+  * Data Analytics
+  * AI Fundamentals
+  * Data Science
+  * Cyber Security, Analytics, Defense, Endpoint
+  * Network Supports and Security
+  * Packet Tracer
 
 ### Others
 - [DeepLearning.AI](https://learn.deeplearning.ai/)
