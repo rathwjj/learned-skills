@@ -60,7 +60,7 @@ For downloadable certificates in PDF format, visit this shared folder:
   * Ethical considerations in ML for healthcare
  
 - HIPAA Compliance Complete Guide – Alison (2025)
-- FHIR on Azure (Microsoft Documentation + Postman Labs)
+- [FHIR on Azure / Microsoft Documentation + Postman Labs](https://github.com/rathwjj/FHIR)
 
 
 ### LinkedIn Learning
