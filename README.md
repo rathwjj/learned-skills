@@ -17,7 +17,14 @@ For downloadable certificates in PDF format, visit this shared folder:
 
 ### Others
 - [DeepLearning.AI](https://learn.deeplearning.ai/)
-- [Health Information Technology Foundations](https://oli.cmu.edu/courses/health-information-technology-foundations-open-free/)
+  Open Source Models with Hugging Face
+  Pair Programming with a Large Language Model
+  AI Python for Beginners
+  Building AI Browser Agents
+  Pretraining LLMs
+  
+- [Health Information Technology Foundations](https://oli.cmu.edu/courses/health-information-technology-foundations-open-free/) Carnegie Melon Open Learning Initiative.
+- [Machine Learning for Healthcare](https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/) MIT Open CourseWare.
 - HIPAA Compliance Complete Guide – Alison (2025)
 - FHIR on Azure (Microsoft Documentation + Postman Labs)
 
