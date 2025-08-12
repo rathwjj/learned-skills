@@ -1,6 +1,7 @@
 # learned-skills
 
 Welcome to my **public certification record**. This repository lists all my learning platforms and certifications, categorized by issuer. Most links are official and publicly viewable.
+For a visual skills map, see: [Skillsets](https://github.com/rathwjj/Skillsets)
 
 For downloadable certificates in PDF format, visit this shared folder:  
 [Google Drive – Certificates](https://drive.google.com/drive/folders/15GUlM1eaCsda57-YHq79gneJDzUdxghD?usp=sharing)
