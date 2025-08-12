@@ -60,7 +60,6 @@ For downloadable certificates in PDF format, visit this shared folder:
   * Model evaluation in clinical contexts (sensitivity, specificity, ROC, AUC)
   * Ethical considerations in ML for healthcare
  
-- [SIIM YouTube — Imaging Informatics](https://www.youtube.com/watch?v=pOiIANu9I_g)  
 - [Clover Learning — Radiologic Science](https://www.youtube.com/playlist?list=PL7rHnBlcAWsk3UAvZ6XmKzI-vynil4nmU)  
  
 - [HIPAA Compliance Complete Guide – Alison](https://alison.com/course/hipaa-compliance-a-complete-guide)
