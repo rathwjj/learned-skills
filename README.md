@@ -23,7 +23,9 @@ For downloadable certificates in PDF format, visit this shared folder:
   * Microsoft data analytics
   * Power Platform Fundamentals
   * AI for business
-  * Microsoft Windows Network Infrastructure / Installing, Configuring, and Administering 
+  * Microsoft Windows Network Infrastructure / Installing, Configuring, and Administering
+  * Microsoft Entra
+  * Microsoft Active Directory Domain Services
 
 ### Cisco Networking Academy / IBM SkillsBuild
 - [Cisco NetAcad / IBM SkillsBuild Credly Badges](https://www.credly.com/users/rathwjj)
