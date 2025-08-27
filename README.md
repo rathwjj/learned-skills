@@ -12,20 +12,20 @@ For downloadable certificates in PDF format, visit this shared folder:
 
 ### Microsoft Learn
 - [Transcript](https://learn.microsoft.com/en-us/users/rathwijitrkamjorn-2495/transcript/7639u1z0382m0z7)
-  * Microsoft Azure Architect Design
+  * Azure Architect Design
   * Azure administrator
   * Azure Fundamentals
-  * Microsoft Dynamics 365
+  * Dynamics 365
   * Power BI
   * Power Apps canvas
   * Power Automate
   * DAX
-  * Microsoft data analytics
+  * Data analytics
   * Power Platform Fundamentals
   * AI for business
-  * Microsoft Windows Network Infrastructure / Installing, Configuring, and Administering
-  * Microsoft Entra
-  * Microsoft Active Directory Domain Services
+  * Windows Network Infrastructure / Installing, Configuring, and Administering
+  * Entra
+  * Active Directory Domain Services
 
 ### Cisco Networking Academy / IBM SkillsBuild
 - [Cisco NetAcad / IBM SkillsBuild Credly Badges](https://www.credly.com/users/rathwjj)
